@@ -1,0 +1,18 @@
+# Create a function that take array input and make each element double and then return an array (use foreach)
+## (function(){
+  var a = b = 3;
+  })();
+  console.log("a defined? " + (typeof a !== 'undefined'));
+  console.log("b defined? " + (typeof b !== 'undefined'));
+
+
+  // ## A function is taking 5 arguments and You have to pass it through an array.
+// ```let arr = [1,2,3,4,5]```
+
+
+
+24.	Write a JavaScript function to extract unique characters from a string. 
+EXAMPLE STRING : "thequickbrownfoxjumpsoverthelazydog"
+EXPECTED OUTPUT : "thequickbrownfxjmpsvlazydg"
+
+
